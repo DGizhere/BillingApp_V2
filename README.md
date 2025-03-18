@@ -12,7 +12,7 @@ A simple desktop-based billing application built using **PySide** for the GUI an
 ## Installation Guide
 ### Prerequisites
 Make sure you have the following installed:
-- Python 3.x
+- Python 3.13.2
 - MySQL Server
 - Required Python libraries
 
